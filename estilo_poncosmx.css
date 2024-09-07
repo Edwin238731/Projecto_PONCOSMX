@@ -1,0 +1,36 @@
+body{
+  color: black;
+  background-color: black;
+}
+nav h2 {
+  color: white;
+}
+a{
+  text-align: center;
+  text-decoration: none;
+  color: white;
+}
+nav{
+  text-align: center;
+  background-color: black;
+  border: solid white;
+  border-radius: 15px;
+  margin: auto;
+  padding-bottom: 15px;
+}
+.navegador{
+  margin-top: 10px;
+  padding-right: 25px;
+}
+.principal{
+  text-align: center;
+  margin: 25px;
+  border: solid red;
+  
+}
+.img_principal{
+  border-radius: 20px;
+  height: 300px;
+  width: 300px;
+  margin: 25px;
+}
